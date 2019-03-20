@@ -1,7 +1,17 @@
-# Starter Kit
-THE goto app for startups that need assistance.
-This app works as a list of F.A.Q to help Startups navigate the world of obstacles and help them launch with ease.
-This repo contains all the static F.A.Q contents for the app/server to read from. Will start off using github pages to serve these data, but will move on to a server / CDN afterwards.
+# StarterKit
 
-## How To Use
-Install the StarterKit App on your phone or desktop and Voilà!
+Use StarterKit to build Starter Kits for your apps/softwares/processes or to build wikis and more!
+
+## How this works (For Users/Consumers)
+
+- Go to the website to run the web-app.
+- Log in to your StarterKit account.
+- Download and run a new StarterKit from the Kit Store.
+- Use the kit as a set ot F.A.Qs or wikis with different tools to help you get started with the thing your StarterKit was built for. E.g. a set of tools to help me choose a outfit.
+
+## How this works (For Authors/Product-owners)
+
+- Go to the website to run the web-app.
+- Log in to your StarterKit account.
+- Press create a new Kit and follow the instructions on the screen
+- Lastly, publish your Kit and that's it!
